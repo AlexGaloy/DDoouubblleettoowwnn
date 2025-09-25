@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>DDoouubblleettoowwnn</title>
+        <style>
+            body {
+                background-color: #33d6ff;
+                text-align: center;
+                font-family: 'Fredoka', 'Quicksand', system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+                font-size: 30px;
+                
+            }
+            h1 {
+                color: #ffffff;
+                font-weight: 700;
+                font-size: 70px;
+                margin-top: 50px;
+            }
+            p {
+                line-height: 1.5;
+                color: #0e475e;
+                margin: 75px;
+            }
+            img {
+                width: 100%;
+                height: auto;
+                margin-top: 10px;
+            }
+        </style>
+    </head>
+    <body>
+        <h1>DDoouubblleettoowwnn</h1>
+        <p>
+            The sick prankster Dubius Dublius, during the founding of singletown, told its founders that there was a giant mirror in the ocean to the west of the island.
+            Since there was a similar looking island to the west, they beleived him. 
+            In order to keep the prank going, he has to make sure everything built in singletown is also made in DDoouubblleettoowwnn. 
+            Unfortunatly, singletown is a very efficient town and changes very often, meaning him and his builders have to build quickly.
+        </p>
+        <img src="island-trans.png">
+    </body>
+</html>
