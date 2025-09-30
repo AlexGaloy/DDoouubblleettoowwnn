@@ -13,10 +13,24 @@
                 
             }
             h1 {
-                color: #ffffff;
+                color: #000000;
+                background-color: white;
                 font-weight: 700;
                 font-size: 70px;
                 margin-top: 50px;
+                box-shadow: 2px 2px 10px #000000;
+                border-radius: 30px;
+                padding: 20px;
+                display: inline-block;
+                color: #0b3b4a;
+                font-size: 64px;
+                text-shadow:
+                    40px 0px 0 #0b3b4ab3,
+                    0px 0px 0 rgba(255,255,255,1);
+                -webkit-font-smoothing: antialiased;
+                -moz-osx-font-smoothing: grayscale;
+                letter-spacing: 10px;
+                padding-right: 50px;
             }
             p {
                 line-height: 1.5;
@@ -31,7 +45,7 @@
         </style>
     </head>
     <body>
-        <h1>DDoouubblleettoowwnn</h1>
+        <h1>D O U B L E T O W N</h1>
         <p>
             The sick prankster Dubius Dublius, during the founding of singletown, told its founders that there was a giant mirror in the ocean to the west of the island.
             Since there was a similar looking island to the west, they beleived him. 
@@ -39,5 +53,8 @@
             Unfortunatly, singletown is a very efficient town and changes very often, meaning him and his builders have to build quickly.
         </p>
         <img src="island-trans.png">
+        <p>
+            he needed to prank so he said:
+        </p>
     </body>
 </html>
